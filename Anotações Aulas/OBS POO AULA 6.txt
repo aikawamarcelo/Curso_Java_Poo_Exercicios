@@ -1,0 +1,3 @@
+
+Setinha: Classe Controle Remoto implementa 
+todos os métodos que a interface tem
